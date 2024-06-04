@@ -1,0 +1,4 @@
+node_modules
+!node_modules/jsonwebtoken/package.json
+!node_modules/jwa/package.json
+.env
